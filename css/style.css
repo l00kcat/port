@@ -36,7 +36,10 @@ html{
 #navTop_box #topMenu li{
     float: left; padding-left: 30px; line-height: 70px;
 }
-#navTop_box #topMenu li a{ font-size: 18px;}
+#navTop_box #topMenu li a{ font-size: 18px;
+     color: #949398;
+    font-weight: bold;
+}
 #navTop_box #topMenu li> a{
     _color:green;
 }
@@ -48,8 +51,8 @@ html{
     
     font-weight: bold; padding-bottom: 2px;
 */
-    font-weight: bold;
-    padding: 10px;
+    
+    padding: 6px;
     background:#fdc81a;
     color: #fff; border-radius: 100px;
     
@@ -73,7 +76,7 @@ html{
     transform: translate(-50%, -50%);
 }
 .section_home>h2 {
-    color: brown; font-size: 40px;
+    color: #747476; font-size: 40px;
     position: absolute; top: 55%; left: 50%;
     transform: translate(-50%, -50%);
 }
